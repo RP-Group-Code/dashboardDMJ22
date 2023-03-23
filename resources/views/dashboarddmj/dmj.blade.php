@@ -42,7 +42,7 @@ border-style: solid; color:aliceblue !important; padding-bottom: 0;">
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                     aria-expanded="false">
-                    Company
+                    Companys
                 </a>
                 <ul class="dropdown-menu"
                     style="background-color: #233945; border: 1px #00ffbb; color: white; border-style: solid;">
