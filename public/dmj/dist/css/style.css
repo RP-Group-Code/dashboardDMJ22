@@ -1,0 +1,118 @@
+body {
+    padding: 1px;
+}
+.info-box {
+    border-bottom-left-radius: 2rem !important;
+    border-top-right-radius: 2rem !important;
+    border-bottom-right-radius: 1rem !important;
+    border-top-left-radius: 1rem !important;
+}
+
+.card-body i:hover {
+    font-size: 2.4rem !important;
+    transition: 0.5s;
+    cursor: pointer !important;
+}
+
+.info-box-number {
+    font-size: 0.8rem !important;
+}
+
+th {
+    text-align: center !important;
+}
+
+.card,
+.card-header,
+.card-body {
+    border-radius: 1rem !important;
+}
+
+X #container {
+    height: 450px;
+}
+
+@media (min-width: 768px) {
+    .col-md-2 {
+        flex: 0 0 auto;
+        width: 13%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    #kolom__jcust {
+        width: 120;
+    }
+
+    /* .info-box{
+            width: 12.5rem;
+            font-size: 12px;
+        } */
+}
+
+/* i{
+        color: #3cd2a5 !important;
+    } */
+#analytics-cards-dmj {
+    background-color: #1e2936;
+    color: white;
+    min-height: 120vh !important;
+}
+
+#rincicardsaleslog {
+    background-color: #1e2936;
+    color: white;
+}
+
+#highcharts-data-table-2 {
+    width: 35em !important;
+}
+
+#highcharts-data-table-2,
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    text-align: center;
+}
+
+body {
+    background-color: #1e2936;
+}
+
+.nav-link,
+.navbar-brand {
+    color: white !important;
+}
+.navbar-brand {
+    width: min-content;
+}
+.navbar-nav{
+    padding-left: 4% !important;
+}
+.bg-light,
+.bg-light > a {
+    color: #3cd2a5 !important;
+}
+
+.dropdown-item {
+    color: white !important;
+}
+
+.dropdown-item:hover {
+    color: rgb(0, 0, 0) !important;
+    background: wheat !important;
+}
+
+.nav-link:hover {
+    color: wheat !important;
+}
+
+.info-box {
+    background: #98b4d7cf !important;
+}
+#logo__nav{
+    width: 35%;
+}
